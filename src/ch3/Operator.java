@@ -23,12 +23,14 @@ public class Operator {
         System.out.println("*************(3)*************");
         int n=123456789;
         float f = n;
-        System.out.print("n: "+n+"\nf: "+f);
+        System.out.print("n: "+n+"\nf: "+f+"\n");
 
         //4
         //强制类型转换可能会丢失一些信息，如果是对浮点数进行舍入运算，可以使用Math.round进行四舍五入
+        System.out.println("*************(4)*************");
         double x =9.74;
         int nx = (int) Math.round(x); //注意返回值为long类型，需要强制转换
+        System.out.println(nx);
 
         //5
         //枚举类型的用法
