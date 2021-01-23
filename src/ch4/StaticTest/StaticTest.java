@@ -7,7 +7,7 @@
  **/
 package ch4.StaticTest;
 
-import java.time.LocalDate;
+
 
 public class StaticTest {
     public static void main(String[] args) {
@@ -20,7 +20,7 @@ public class StaticTest {
 
         for(Employee e:staff){
             e.setId();
-            System.out.println("anme="+e.getName()+",id="+e.getId()+",salary="+e.getSalary());
+            System.out.println("name="+e.getName()+",id="+e.getId()+",salary="+e.getSalary());
         }
 
         int n = Employee.getNextID();
