@@ -153,7 +153,7 @@ Math.floorMod(position+adjustment, 12) //param1:被除数，param2:除数
 
 下图中给出了数值类型之间的合法转换，而三个虚箭头表示转换会有精度损失。
 
-![未命名文件](/home/years/IdeaProjects/CoreJavaVolume_One/Readme.pic/未命名文件-1611920715810.png)
+![未命名文件](./Readme.pic/未命名文件-1611920715810.png)
 
 例如int-->float就可能会有精度丢失。
 
@@ -491,7 +491,7 @@ smallPrimers = new int[] {1,2,3,4,5,6};
 
 之前在`String`类中讲过，变量都是引用，因此如果直接用`=`将一个数组变量赋值给另一个，那么这两个遍历会引用同一个数组：
 
-![CH3-7-3](/home/years/IdeaProjects/CoreJavaVolume_One/Readme.pic/CH3-7-3.png)
+![CH3-7-3](./Readme.pic/CH3-7-3.png)
 
 如果只需要复制数组的值，则使用`copyOf`：
 
