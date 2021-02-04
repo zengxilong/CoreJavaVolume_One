@@ -20,7 +20,6 @@ public class Arr {
         for(int i = 0;i < names.length;i++){
             names[i] = "";
         }//全为空串
-
         //2
         //数组初始化
         System.out.println("*************(2)*************");
