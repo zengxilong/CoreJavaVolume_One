@@ -12,6 +12,6 @@
 本章代码文件夹：[https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch3](https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch3)
 
 本章文档：[ch3.md](./doc/ch3.md)
-# ch4-对象与类
+# ch4 -对象与类
 
 本章代码文件夹[https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch4](https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch4)
