@@ -7,7 +7,7 @@
 整个项目开源于Github:[https://github.com/zengxilong/CoreJavaVolume_One](https://github.com/zengxilong/CoreJavaVolume_One)
 
 
-# ch3-Java 的基本程序设计结构
+# ch3- Java 的基本程序设计结构
 
 本章代码文件夹：[https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch3](https://github.com/zengxilong/CoreJavaVolume_One/tree/master/src/ch3)
 
